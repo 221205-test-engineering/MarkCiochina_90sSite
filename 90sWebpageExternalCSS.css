@@ -19,7 +19,11 @@ body{
     border: 3px solid green;
     padding: 10px;
 }
-
+table{
+    background-color: rgb(240, 255, 249);
+    color:blue;
+    
+}
 #joeyimg{
     max-width: 800px;
     height: 500px;
@@ -33,7 +37,7 @@ body{
     display: flex;
   }
   
-.nav{
+#nav{
     padding-top: 15px;
     clear: both;
 }
