@@ -1,0 +1,42 @@
+body{
+    background: url(SimpsonsTV.jpg);
+    background-repeat: repeat;
+    background-size: 450px 450px;
+}
+.blockcenter{
+    display: block;
+    margin: auto;
+    width: 55%;
+    align-items: center;
+}
+.textcenter{
+    text-align: center;
+}
+.whitebg{
+    background-color: antiquewhite;
+    max-width: 55%;
+    margin: auto;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+#joeyimg{
+    max-width: 800px;
+    height: 500px;
+}
+.imgContainer{
+    float: left;
+    padding-right: 15px;
+}
+
+.row {
+    display: flex;
+  }
+  
+.nav{
+    padding-top: 15px;
+    clear: both;
+}
+.navlinks{
+    padding-right: 15px;
+}
