@@ -22,8 +22,15 @@ body{
 table{
     background-color: rgb(240, 255, 249);
     color:blue;
-    
 }
+th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
+th, td:hover {
+    background-color: yellow;
+  }
 #joeyimg{
     max-width: 800px;
     height: 500px;
